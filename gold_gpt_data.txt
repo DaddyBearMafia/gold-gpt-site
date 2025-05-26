@@ -9,7 +9,7 @@ Price: 3349.6 | Spread: 19
 [Pivots]
 {'PP': np.float64(3347.226666666667), 'R1': np.float64(3349.5533333333337), 'S1': np.float64(3345.3033333333337), 'R2': np.float64(3351.476666666667), 'S2': np.float64(3342.976666666667)}
 [Tick Info]
-{'time': 1748243510, 'bid': 3349.6, 'ask': 3349.79, 'last': 0.0, 'volume': 0, 'time_msc': 1748243510700, 'flags': 1028, 'volume_real': 0.0}
+{'time': 1748243514, 'bid': 3349.6, 'ask': 3349.79, 'last': 0.0, 'volume': 0, 'time_msc': 1748243514782, 'flags': 1028, 'volume_real': 0.0}
 [Meta Summary]
 {'bid': 3349.6, 'ask': 3349.79, 'volume': 0, 'session_open': 3351.81, 'session_close': 3360.2, 'swap_long': -12.6, 'swap_short': -4.6}
 
