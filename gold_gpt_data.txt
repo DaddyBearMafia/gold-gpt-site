@@ -1,17 +1,17 @@
 [GPT SCALPING SNAPSHOT – XAUUSD – 2025-05-29 02:03:00] (2025-05-28 23:03 UTC / 2025-05-29 00:03 UK)
-Price: 3283.09 | Spread: 18
+Price: 3283.04 | Spread: 18
 [M1 Data]
-{'time': Timestamp('2025-05-29 02:03:00'), 'open': 3283.96, 'high': 3283.96, 'low': 3282.55, 'close': 3283.09, 'tick_volume': 34, 'spread': 17, 'real_volume': 0, 'ema9': 3285.404347541014, 'ema21': 3286.0123607480687, 'ema50': 3286.9912812381117, 'ema100': 3289.017894950615, 'ema200': 3291.7535475667564, 'ema_slope': -0.2922360748070787, 'rsi': 0.6802721088480297, 'macd': -0.4906462316480429, 'macd_signal': -0.1576808580122031, 'macd_hist': -0.3329653736358398, 'atr': 1.280714285714339, 'vwap': 3297.178738568173, 'bb_width': 0.0014827336653575954, 'body': 0.8699999999998909, 'range': 1.4099999999998545, 'volume_avg': 54.1, 'fractal_high': False, 'fractal_low': False, 'hour': 2, 'session': 'Asia', 'atr_spike': False, 'volume_spike': False}
+{'time': Timestamp('2025-05-29 02:03:00'), 'open': 3283.96, 'high': 3283.96, 'low': 3282.55, 'close': 3283.04, 'tick_volume': 38, 'spread': 17, 'real_volume': 0, 'ema9': 3285.394347541014, 'ema21': 3286.0078152935234, 'ema50': 3286.989320453794, 'ema100': 3289.0169048066678, 'ema200': 3291.7530466795074, 'ema_slope': -0.29678152935230173, 'rsi': 0.6726457399147279, 'macd': -0.49463483563658883, 'macd_signal': -0.1584785788099123, 'macd_hist': -0.3361562568266765, 'atr': 1.280714285714339, 'vwap': 3297.1768694452453, 'bb_width': 0.0014909054694301318, 'body': 0.9200000000000728, 'range': 1.4099999999998545, 'volume_avg': 54.5, 'fractal_high': False, 'fractal_low': False, 'hour': 2, 'session': 'Asia', 'atr_spike': False, 'volume_spike': False}
 [M15 Data]
-{'time': Timestamp('2025-05-29 02:00:00'), 'open': 3286.58, 'high': 3287.69, 'low': 3282.55, 'close': 3283.09, 'tick_volume': 240, 'spread': 16, 'real_volume': 0, 'ema9': 3288.61286247969, 'ema21': 3292.858665374283, 'ema50': 3298.4614512507196, 'ema100': 3303.0432516876563, 'ema200': 3309.385929239974, 'ema_slope': -0.9768665374285774, 'rsi': 25.636523266025705, 'macd': -4.235010625206996, 'macd_signal': -3.3361736927549583, 'macd_hist': -0.898836932452038, 'atr': 5.874285714285699, 'vwap': 3318.396063568099, 'bb_width': 0.0068474369413563645, 'body': 3.4899999999997817, 'range': 5.139999999999873, 'volume_avg': 667.6, 'fractal_high': False, 'fractal_low': False, 'hour': 2, 'session': 'Asia', 'atr_spike': False, 'volume_spike': False}
+{'time': Timestamp('2025-05-29 02:00:00'), 'open': 3286.58, 'high': 3287.69, 'low': 3282.55, 'close': 3283.04, 'tick_volume': 244, 'spread': 16, 'real_volume': 0, 'ema9': 3288.6028624796904, 'ema21': 3292.8541199197384, 'ema50': 3298.459490466402, 'ema100': 3303.042261543709, 'ema200': 3309.3854283527244, 'ema_slope': -0.9814119919733457, 'rsi': 25.524475524477992, 'macd': -4.238999229195542, 'macd_signal': -3.336971413552668, 'macd_hist': -0.9020278156428745, 'atr': 5.874285714285699, 'vwap': 3318.3957526918784, 'bb_width': 0.006853682572477585, 'body': 3.5399999999999636, 'range': 5.139999999999873, 'volume_avg': 668.0, 'fractal_high': False, 'fractal_low': False, 'hour': 2, 'session': 'Asia', 'atr_spike': False, 'volume_spike': False}
 [M30 Data]
-{'time': Timestamp('2025-05-29 02:00:00'), 'open': 3286.58, 'high': 3287.69, 'low': 3282.55, 'close': 3283.09, 'tick_volume': 240, 'spread': 16, 'real_volume': 0, 'ema9': 3290.753810753638, 'ema21': 3296.592002621759, 'ema50': 3302.5870273907162, 'ema100': 3308.6278169733505, 'ema200': 3309.0688181936544, 'ema_slope': -1.3502002621758038, 'rsi': 7.452657299940313, 'macd': -5.478629366767109, 'macd_signal': -4.00169446781668, 'macd_hist': -1.4769348989504287, 'atr': 7.283571428571447, 'vwap': 3269.7254043321973, 'bb_width': 0.009256129513001575, 'body': 3.4899999999997817, 'range': 5.139999999999873, 'volume_avg': 1491.2, 'fractal_high': False, 'fractal_low': False, 'hour': 2, 'session': 'Asia', 'atr_spike': False, 'volume_spike': False}
+{'time': Timestamp('2025-05-29 02:00:00'), 'open': 3286.58, 'high': 3287.69, 'low': 3282.55, 'close': 3283.04, 'tick_volume': 244, 'spread': 16, 'real_volume': 0, 'ema9': 3290.7438107536377, 'ema21': 3296.5874571672134, 'ema50': 3302.585066606398, 'ema100': 3308.6268268294034, 'ema200': 3309.0683173064053, 'ema_slope': -1.3547457167214816, 'rsi': 7.42996345919741, 'macd': -5.482617970755655, 'macd_signal': -4.002492188614389, 'macd_hist': -1.4801257821412657, 'atr': 7.283571428571447, 'vwap': 3269.725445444222, 'bb_width': 0.009262069894692377, 'body': 3.5399999999999636, 'range': 5.139999999999873, 'volume_avg': 1491.6, 'fractal_high': False, 'fractal_low': False, 'hour': 2, 'session': 'Asia', 'atr_spike': False, 'volume_spike': False}
 [Pivots]
 {'PP': np.float64(3285.976666666667), 'R1': np.float64(3289.183333333334), 'S1': np.float64(3283.4433333333336), 'R2': np.float64(3291.716666666667), 'S2': np.float64(3280.2366666666667)}
 [Tick Info]
-{'time': 1748484207, 'bid': 3283.09, 'ask': 3283.27, 'last': 0.0, 'volume': 0, 'time_msc': 1748484207478, 'flags': 1030, 'volume_real': 0.0}
+{'time': 1748484211, 'bid': 3283.04, 'ask': 3283.22, 'last': 0.0, 'volume': 0, 'time_msc': 1748484211082, 'flags': 1030, 'volume_real': 0.0}
 [Meta Summary]
-{'bid': 3283.09, 'ask': 3283.27, 'volume': 0, 'session_open': 3289.52, 'session_close': 3287.12, 'swap_long': -12.6, 'swap_short': -4.6}
+{'bid': 3283.04, 'ask': 3283.22, 'volume': 0, 'session_open': 3289.52, 'session_close': 3287.12, 'swap_long': -12.6, 'swap_short': -4.6}
 
 
 [WARNING] No data for DXY
@@ -31,4 +31,4 @@ Return response in this exact format:
 - TREND CONTEXT
 - MOMENTUM CONTEXT
 - STRUCTURE CONTEXT
-- INTERMARKET CONTEXT
+- INTERMARKET CO
