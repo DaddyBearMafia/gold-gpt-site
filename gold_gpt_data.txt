@@ -1,4 +1,4 @@
-[GPT SCALPING SNAPSHOT – XAUUSD – 2025-05-28 07:06:00] (2025-05-28 04:06 UTC / 2025-05-28 05:06 UK)
+[GPT SCALPING SNAPSHOT – XAUUSD – 2025-05-28 07:06:00] (2025-05-28 04:07 UTC / 2025-05-28 05:07 UK)
 Price: 3297.44 | Spread: 18
 [M1 Data]
 {'time': Timestamp('2025-05-28 07:06:00'), 'open': 3297.92, 'high': 3298.26, 'low': 3297.4, 'close': 3297.44, 'tick_volume': 44, 'spread': 17, 'real_volume': 0, 'ema9': 3297.723136904727, 'ema21': 3297.5645177765246, 'ema50': 3297.999309960174, 'ema100': 3299.8398696102095, 'ema200': 3302.322319164411, 'ema_slope': -0.012451777652586316, 'rsi': 38.03680981595229, 'macd': 0.15875375783116397, 'macd_signal': 0.1653828851449534, 'macd_hist': -0.0066291273137894235, 'atr': 0.8385714285713805, 'vwap': 3304.820980893222, 'bb_width': 0.0010156068978523904, 'body': 0.4800000000000182, 'range': 0.8600000000001273, 'volume_avg': 52.5, 'fractal_high': False, 'fractal_low': False, 'hour': 7, 'session': 'London Open Ramp', 'atr_spike': False, 'volume_spike': False}
