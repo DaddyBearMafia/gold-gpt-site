@@ -1,7 +1,7 @@
 [GPT SCALPING SNAPSHOT – XAUUSD – 2025-05-28 03:49:00] (2025-05-28 00:49 UTC / 2025-05-28 01:49 UK)
-Price: 3314.24 | Spread: 19
+Price: 3314.24 | Spread: 18
 [M1 Data]
-{'time': Timestamp('2025-05-28 03:49:00'), 'open': 3314.25, 'high': 3314.25, 'low': 3314.24, 'close': 3314.24, 'tick_volume': 2, 'spread': 19, 'real_volume': 0, 'ema9': 3314.420612299649, 'ema21': 3314.091261235407, 'ema50': 3312.8432926291784, 'ema100': 3311.019217770323, 'ema200': 3308.6295428020553, 'ema_slope': 0.014873876458750601, 'rsi': 42.64705882350581, 'macd': 0.5095444910798506, 'macd_signal': 0.6765237638086815, 'macd_hist': -0.16697927272883095, 'atr': 0.7050000000000247, 'vwap': 3301.7987262739134, 'bb_width': 0.0005521728155004395, 'body': 0.010000000000218279, 'range': 0.010000000000218279, 'volume_avg': 39.5, 'fractal_high': False, 'fractal_low': False, 'hour': 3, 'session': 'Asia', 'atr_spike': False, 'volume_spike': False}
+{'time': Timestamp('2025-05-28 03:49:00'), 'open': 3314.25, 'high': 3314.25, 'low': 3314.24, 'close': 3314.24, 'tick_volume': 2, 'spread': 18, 'real_volume': 0, 'ema9': 3314.420612299649, 'ema21': 3314.091261235407, 'ema50': 3312.8432926291784, 'ema100': 3311.019217770323, 'ema200': 3308.6295428020553, 'ema_slope': 0.014873876458750601, 'rsi': 42.64705882350581, 'macd': 0.5095444910798506, 'macd_signal': 0.6765237638086815, 'macd_hist': -0.16697927272883095, 'atr': 0.7050000000000247, 'vwap': 3301.7987262739134, 'bb_width': 0.0005521728155004395, 'body': 0.010000000000218279, 'range': 0.010000000000218279, 'volume_avg': 39.5, 'fractal_high': False, 'fractal_low': False, 'hour': 3, 'session': 'Asia', 'atr_spike': False, 'volume_spike': False}
 [M15 Data]
 {'time': Timestamp('2025-05-28 03:45:00'), 'open': 3314.29, 'high': 3314.67, 'low': 3314.19, 'close': 3314.24, 'tick_volume': 168, 'spread': 18, 'real_volume': 0, 'ema9': 3310.593096281789, 'ema21': 3307.1724326878516, 'ema50': 3305.843010044255, 'ema100': 3311.34777010228, 'ema200': 3318.306356798664, 'ema_slope': 0.7067567312146821, 'rsi': 82.79932546373848, 'macd': 3.1840456942863966, 'macd_signal': 2.3092440783109978, 'macd_hist': 0.8748016159753988, 'atr': 3.1757142857142884, 'vwap': 3314.7040522362454, 'bb_width': 0.004882153869401101, 'body': 0.0500000000001819, 'range': 0.4800000000000182, 'volume_avg': 548.4, 'fractal_high': False, 'fractal_low': False, 'hour': 3, 'session': 'Asia', 'atr_spike': False, 'volume_spike': False}
 [M30 Data]
@@ -9,9 +9,9 @@ Price: 3314.24 | Spread: 19
 [Pivots]
 {'PP': np.float64(3311.3199999999997), 'R1': np.float64(3313.3099999999995), 'S1': np.float64(3310.0699999999993), 'R2': np.float64(3314.56), 'S2': np.float64(3308.0799999999995)}
 [Tick Info]
-{'time': 1748404141, 'bid': 3314.24, 'ask': 3314.43, 'last': 0.0, 'volume': 0, 'time_msc': 1748404141348, 'flags': 1030, 'volume_real': 0.0}
+{'time': 1748404143, 'bid': 3314.24, 'ask': 3314.42, 'last': 0.0, 'volume': 0, 'time_msc': 1748404143386, 'flags': 1028, 'volume_real': 0.0}
 [Meta Summary]
-{'bid': 3314.24, 'ask': 3314.43, 'volume': 0, 'session_open': 3304.22, 'session_close': 3300.53, 'swap_long': -12.6, 'swap_short': -4.6}
+{'bid': 3314.24, 'ask': 3314.42, 'volume': 0, 'session_open': 3304.22, 'session_close': 3300.53, 'swap_long': -12.6, 'swap_short': -4.6}
 
 
 [WARNING] No data for DXY
