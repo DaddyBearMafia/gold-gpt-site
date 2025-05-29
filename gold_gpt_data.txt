@@ -1,0 +1,34 @@
+[GPT SCALPING SNAPSHOT – XAUUSD – 2025-05-29 13:13:00] (2025-05-29 10:13 UTC / 2025-05-29 11:13 UK)
+Price: 3287.19 | Spread: 17
+[M1 Data]
+{'time': Timestamp('2025-05-29 13:13:00'), 'open': 3287.47, 'high': 3287.47, 'low': 3287.0, 'close': 3287.19, 'tick_volume': 20, 'spread': 17, 'real_volume': 0, 'ema9': 3286.7686971353232, 'ema21': 3285.1651733993745, 'ema50': 3283.201555294876, 'ema100': 3281.9744279655015, 'ema200': 3280.270947686172, 'ema_slope': 0.20248266006319682, 'rsi': 45.925925925920936, 'macd': 1.6635641047023455, 'macd_signal': 1.4781491468163064, 'macd_hist': 0.18541495788603912, 'atr': 1.1828571428571064, 'vwap': 3274.6463464939734, 'bb_width': 0.0031652868743113583, 'body': 0.27999999999974534, 'range': 0.4699999999997999, 'volume_avg': 72.4, 'fractal_high': False, 'fractal_low': False, 'hour': 13, 'session': 'NY Overlap Spike', 'atr_spike': False, 'volume_spike': False}
+[M15 Data]
+{'time': Timestamp('2025-05-29 13:00:00'), 'open': 3282.07, 'high': 3288.7, 'low': 3281.98, 'close': 3287.19, 'tick_volume': 1049, 'spread': 7, 'real_volume': 0, 'ema9': 3281.919131277241, 'ema21': 3279.0368675120067, 'ema50': 3279.1677791460834, 'ema100': 3285.6396317759063, 'ema200': 3296.0945386204467, 'ema_slope': 0.8153132487996118, 'rsi': 73.12925170068097, 'macd': 2.683690432401818, 'macd_signal': 2.1126503038686777, 'macd_hist': 0.5710401285331401, 'atr': 4.752857142857108, 'vwap': 3314.259479567144, 'bb_width': 0.0070982889396982995, 'body': 5.119999999999891, 'range': 6.7199999999998, 'volume_avg': 1053.4, 'fractal_high': False, 'fractal_low': False, 'hour': 13, 'session': 'NY Overlap Spike', 'atr_spike': False, 'volume_spike': False}
+[M30 Data]
+{'time': Timestamp('2025-05-29 13:00:00'), 'open': 3282.07, 'high': 3288.7, 'low': 3281.98, 'close': 3287.19, 'tick_volume': 1049, 'spread': 7, 'real_volume': 0, 'ema9': 3280.860707082319, 'ema21': 3279.4223308485666, 'ema50': 3286.0895385036138, 'ema100': 3296.0590558999793, 'ema200': 3301.9480930435516, 'ema_slope': 0.7767669151435257, 'rsi': 51.71377029464876, 'macd': -0.415834044264102, 'macd_signal': -2.893373138423461, 'macd_hist': 2.477539094159359, 'atr': 6.577857142857089, 'vwap': 3271.241167791774, 'bb_width': 0.009918820272418175, 'body': 5.119999999999891, 'range': 6.7199999999998, 'volume_avg': 2103.9, 'fractal_high': False, 'fractal_low': False, 'hour': 13, 'session': 'NY Overlap Spike', 'atr_spike': False, 'volume_spike': False}
+[Pivots]
+{'PP': np.float64(3281.146666666666), 'R1': np.float64(3284.1133333333323), 'S1': np.float64(3279.083333333332), 'R2': np.float64(3286.1766666666663), 'S2': np.float64(3276.116666666666)}
+[Tick Info]
+{'time': 1748524395, 'bid': 3287.19, 'ask': 3287.36, 'last': 0.0, 'volume': 0, 'time_msc': 1748524395423, 'flags': 1030, 'volume_real': 0.0}
+[Meta Summary]
+{'bid': 3287.19, 'ask': 3287.36, 'volume': 0, 'session_open': 3289.52, 'session_close': 3287.12, 'swap_long': -12.6, 'swap_short': -4.6}
+
+
+[WARNING] No data for DXY
+[WARNING] No data for SILVER
+ACTION PROMPT TO GPT:
+Run Line Theory 15 and 30 full MA stack checks. Validate pink/yellow/cyan relationships and white MA slope for macro trend alignment.
+Evaluate Method 4.4 breakout quality: body ratio, volume spike, ATR confirmation, breakout candle location, retest within 1–4 bars, SL/TP RR range.
+Check RSI(5) M1/M15/M30, MACD crossovers, and BB width status. Confirm squeeze, expansion, or climax.
+Apply Validity Checker: session tag, VWAP alignment, ±45min news filter, zone retest fatigue, confidence %, time-decayed risk.
+If DXY/Silver/US10Y data is missing or diverges → reduce confidence.
+Return response in this exact format:
+- SIGNAL: BUY / SELL / AVOID
+- ENTRY: price or range
+- SL / TP1 / TP2
+- CONFIDENCE: %
+- RISK PROFILE: now/in_5/in_15
+- TREND CONTEXT
+- MOMENTUM CONTEXT
+- STRUCTURE CONTEXT
+- INTERMARKET CONTEXT
