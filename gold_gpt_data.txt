@@ -1,5 +1,5 @@
 [GPT SCALPING SNAPSHOT – XAUUSD – 2025-05-29 05:59:00] (2025-05-29 02:59 UTC / 2025-05-29 03:59 UK)
-Price: 3270.09 | Spread: 20
+Price: 3270.09 | Spread: 19
 [M1 Data]
 {'time': Timestamp('2025-05-29 05:59:00'), 'open': 3271.2, 'high': 3271.2, 'low': 3269.7, 'close': 3270.09, 'tick_volume': 74, 'spread': 19, 'real_volume': 0, 'ema9': 3270.7188953987, 'ema21': 3269.821020141065, 'ema50': 3267.219488211699, 'ema100': 3264.7729274643893, 'ema200': 3265.417177096929, 'ema_slope': 0.026897985893810983, 'rsi': 32.67973856209208, 'macd': 1.2590766441689993, 'macd_signal': 1.5757732595483247, 'macd_hist': -0.31669661537932536, 'atr': 1.6014285714285765, 'vwap': 3275.190005597066, 'bb_width': 0.002359442366310033, 'body': 1.1099999999996726, 'range': 1.5, 'volume_avg': 82.9, 'fractal_high': False, 'fractal_low': False, 'hour': 5, 'session': 'Asia', 'atr_spike': False, 'volume_spike': False}
 [M15 Data]
@@ -9,9 +9,9 @@ Price: 3270.09 | Spread: 20
 [Pivots]
 {'PP': np.float64(3264.1966666666667), 'R1': np.float64(3267.3533333333335), 'S1': np.float64(3262.2433333333333), 'R2': np.float64(3269.306666666667), 'S2': np.float64(3259.0866666666666)}
 [Tick Info]
-{'time': 1748498390, 'bid': 3270.09, 'ask': 3270.29, 'last': 0.0, 'volume': 0, 'time_msc': 1748498390084, 'flags': 1030, 'volume_real': 0.0}
+{'time': 1748498391, 'bid': 3270.09, 'ask': 3270.28, 'last': 0.0, 'volume': 0, 'time_msc': 1748498391283, 'flags': 1028, 'volume_real': 0.0}
 [Meta Summary]
-{'bid': 3270.09, 'ask': 3270.29, 'volume': 0, 'session_open': 3289.52, 'session_close': 3287.12, 'swap_long': -12.6, 'swap_short': -4.6}
+{'bid': 3270.09, 'ask': 3270.28, 'volume': 0, 'session_open': 3289.52, 'session_close': 3287.12, 'swap_long': -12.6, 'swap_short': -4.6}
 
 
 [WARNING] No data for DXY
