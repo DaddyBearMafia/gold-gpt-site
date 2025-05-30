@@ -1,28 +1,31 @@
-[GPT SCALPING SNAPSHOT – XAUUSD – 2025-05-30 21:57:00] (2025-05-30 18:57 UTC / 2025-05-30 19:57 UK)
-Price: 3294.52 | Spread: 17
-[M1 Data]
-{'time': Timestamp('2025-05-30 21:57:00'), 'open': 3294.24, 'high': 3294.76, 'low': 3294.18, 'close': 3294.52, 'tick_volume': 49, 'spread': 17, 'real_volume': 0, 'ema9': 3294.275093061822, 'ema21': 3294.2404208208, 'ema50': 3293.927743746611, 'ema100': 3293.121219150986, 'ema200': 3291.8620617895444, 'ema_slope': 0.027957917919593456, 'rsi': 74.57627118643154, 'macd': 0.06423027339997134, 'macd_signal': 0.08499422602635948, 'macd_hist': -0.020763952626388138, 'atr': 0.4814285714286208, 'vwap': 3291.1490831637843, 'bb_width': 0.0003777299471595797, 'body': 0.2800000000002001, 'range': 0.580000000000382, 'volume_avg': 56.9, 'fractal_high': False, 'fractal_low': False, 'hour': 21, 'session': 'After-Hours', 'atr_spike': False, 'volume_spike': False}
-[M15 Data]
-{'time': Timestamp('2025-05-30 21:45:00'), 'open': 3294.47, 'high': 3294.93, 'low': 3293.76, 'close': 3294.52, 'tick_volume': 722, 'spread': 17, 'real_volume': 0, 'ema9': 3293.0567090845525, 'ema21': 3292.0111063064023, 'ema50': 3293.9096135308514, 'ema100': 3296.6762772503052, 'ema200': 3299.230770915159, 'ema_slope': 0.25088936935935635, 'rsi': 54.63917525773217, 'macd': 0.42499398604468297, 'macd_signal': -0.49625639564454377, 'macd_hist': 0.9212503816892268, 'atr': 4.272142857142788, 'vwap': 3312.0640971179064, 'bb_width': 0.005923925865772504, 'body': 0.0500000000001819, 'range': 1.169999999999618, 'volume_avg': 982.6, 'fractal_high': False, 'fractal_low': False, 'hour': 21, 'session': 'After-Hours', 'atr_spike': False, 'volume_spike': False}
-[M30 Data]
-{'time': Timestamp('2025-05-30 21:30:00'), 'open': 3294.57, 'high': 3295.02, 'low': 3293.49, 'close': 3294.52, 'tick_volume': 1581, 'spread': 17, 'real_volume': 0, 'ema9': 3291.900318212108, 'ema21': 3293.0195973450645, 'ema50': 3296.5932471718234, 'ema100': 3299.251790066872, 'ema200': 3302.449398097611, 'ema_slope': 0.1500402654928621, 'rsi': 75.37878787878643, 'macd': -2.016092451996883, 'macd_signal': -3.056523488013528, 'macd_hist': 1.040431036016645, 'atr': 10.660714285714286, 'vwap': 3286.414645588885, 'bb_width': 0.0077115766738498825, 'body': 0.0500000000001819, 'range': 1.5300000000002, 'volume_avg': 2290.4, 'fractal_high': False, 'fractal_low': False, 'hour': 21, 'session': 'After-Hours', 'atr_spike': False, 'volume_spike': False}
-[Pivots]
-{'PP': np.float64(3293.4900000000002), 'R1': np.float64(3296.0300000000007), 'S1': np.float64(3292.0100000000007), 'R2': np.float64(3297.51), 'S2': np.float64(3289.4700000000003)}
-[Tick Info]
-{'time': 1748642264, 'bid': 3294.52, 'ask': 3294.69, 'last': 0.0, 'volume': 0, 'time_msc': 1748642264632, 'flags': 1030, 'volume_real': 0.0}
-[Meta Summary]
-{'bid': 3294.52, 'ask': 3294.69, 'volume': 0, 'session_open': 3317.76, 'session_close': 3318.23, 'swap_long': -12.6, 'swap_short': -4.6}
+SCALPING SIGNAL DATA SNAPSHOT
+Time: 2025-05-30 19:58 UK / 2025-05-30 18:58 UTC
 
+INTERMARKET SNAPSHOT:
+- DXY: Bid=None | Spread=None | Trend=n/a
+- SILVER: Bid=None | Spread=None | Trend=n/a
+- US10Y: Bid=n/a | Spread=n/a | Trend=n/a
+
+SYMBOL: XAUUSD
+SETUP TYPE: FVG Rejection Sell + Pivot Reversal + Liquidity Trap
+Price: 3294.32 | Spread: 17
+[M1] {"time": "2025-05-30 21:58:00", "open": 3294.41, "high": 3294.54, "low": 3294.26, "close": 3294.32, "tick_volume": 13, "spread": 17, "real_volume": 0, "ema9": 3294.2824744494587, "ema21": 3294.246828845355, "ema50": 3293.942749566505, "ema100": 3293.144761992979, "ema200": 3291.8863231859086, "ema_slope": 0.007317115464047674, "rsi": 60.56338028168924, "macd": 0.06278259838290978, "macd_signal": 0.08042426517007972, "macd_hist": -0.01764166678716994, "atr": 0.44357142857146364, "vwap": 3291.1428296073736, "bb_width": 0.0003776352065567075, "body": 0.08999999999969077, "range": 0.27999999999974534, "volume_avg": 54.0, "fractal_high": false, "fractal_low": false, "hour": 21, "session": "After-Hours", "atr_spike": false, "volume_spike": false}
+[M15] {"time": "2025-05-30 21:45:00", "open": 3294.47, "high": 3294.93, "low": 3293.76, "close": 3294.32, "tick_volume": 747, "spread": 17, "real_volume": 0, "ema9": 3293.016709084553, "ema21": 3291.992924488221, "ema50": 3293.9017703935806, "ema100": 3296.672316674516, "ema200": 3299.2287673661635, "ema_slope": 0.23270755117800945, "rsi": 53.175775480061034, "macd": 0.4090395700904992, "macd_signal": -0.49944727883538054, "macd_hist": 0.9084868489258797, "atr": 4.272142857142788, "vwap": 3312.062921051895, "bb_width": 0.005910446874447775, "body": 0.1499999999996362, "range": 1.169999999999618, "volume_avg": 985.1, "fractal_high": false, "fractal_low": false, "hour": 21, "session": "After-Hours", "atr_spike": false, "volume_spike": false}
+[M30] {"time": "2025-05-30 21:30:00", "open": 3294.57, "high": 3295.02, "low": 3293.49, "close": 3294.32, "tick_volume": 1606, "spread": 17, "real_volume": 0, "ema9": 3291.8603182121083, "ema21": 3293.001415526883, "ema50": 3296.585404034552, "ema100": 3299.247829491083, "ema200": 3302.447394548615, "ema_slope": 0.1318584473115152, "rsi": 73.97769516728619, "macd": -2.032046867951067, "macd_signal": -3.059714371204365, "macd_hist": 1.0276675032532983, "atr": 10.660714285714286, "vwap": 3286.4145299456286, "bb_width": 0.0077071355349937485, "body": 0.25, "range": 1.5300000000002, "volume_avg": 2292.9, "fractal_high": false, "fractal_low": false, "hour": 21, "session": "After-Hours", "atr_spike": false, "volume_spike": false}
+[Pivots] {"PP": 3293.4900000000002, "R1": 3296.0300000000007, "S1": 3292.0100000000007, "R2": 3297.51, "S2": 3289.4700000000003}
+[Volume Profile Nodes] [{"price": 3293.192, "volume": 6277, "is_node": true}, {"price": 3291.456, "volume": 5802, "is_node": true}, {"price": 3289.7200000000003, "volume": 3910, "is_node": true}, {"price": 3287.984, "volume": 2645, "is_node": true}, {"price": 3286.248, "volume": 2576, "is_node": true}]
+[FVG Zones] [{"type": "down", "high": 3294.28, "low": 3293.85, "time": "2025-05-30 21:37:00"}, {"type": "up", "low": 3293.85, "high": 3293.97, "time": "2025-05-30 21:39:00"}, {"type": "up", "low": 3294.43, "high": 3294.57, "time": "2025-05-30 21:46:00"}]
+[Tick Data] [{"time": "2025-05-30 17:59:17", "bid": 3282.68, "ask": 3282.86, "last": 0.0, "volume": 0, "time_msc": 1748627957513, "flags": 1158, "volume_real": 0.0, "type": "SELL"}, {"time": "2025-05-30 17:59:18", "bid": 3282.66, "ask": 3282.83, "last": 0.0, "volume": 0, "time_msc": 1748627958038, "flags": 1158, "volume_real": 0.0, "type": "SELL"}, {"time": "2025-05-30 17:59:18", "bid": 3282.61, "ask": 3282.78, "last": 0.0, "volume": 0, "time_msc": 1748627958784, "flags": 1158, "volume_real": 0.0, "type": "SELL"}, {"time": "2025-05-30 17:59:19", "bid": 3282.61, "ask": 3282.79, "last": 0.0, "volume": 0, "time_msc": 1748627959314, "flags": 1028, "volume_real": 0.0, "type": "UNK"}, {"time": "2025-05-30 17:59:20", "bid": 3282.63, "ask": 3282.8, "last": 0.0, "volume": 0, "time_msc": 1748627960376, "flags": 1158, "volume_real": 0.0, "type": "SELL"}, {"time": "2025-05-30 17:59:20", "bid": 3282.55, "ask": 3282.73, "last": 0.0, "volume": 0, "time_msc": 1748627960904, "flags": 1158, "volume_real": 0.0, "type": "SELL"}, {"time": "2025-05-30 17:59:21", "bid": 3282.4, "ask": 3282.58, "last": 0.0, "volume": 0, "time_msc": 1748627961435, "flags": 1158, "volume_real": 0.0, "type": "SELL"}, {"time": "2025-05-30 17:59:22", "bid": 3282.56, "ask": 3282.73, "last": 0.0, "volume": 0, "time_msc": 1748627962178, "flags": 1158, "volume_real": 0.0, "type": "SELL"}, {"time": "2025-05-30 17:59:22", "bid": 3282.98, "ask": 3283.15, "last": 0.0, "volume": 0, "time_msc": 1748627962705, "flags": 1158, "volume_real": 0.0, "type": "SELL"}, {"time": "2025-05-30 17:59:23", "bid": 3282.77, "ask": 3282.95, "last": 0.0, "volume": 0, "time_msc": 1748627963237, "flags": 1158, "volume_real": 0.0, "type": "SELL"}]
+[Market Depth] []
 
 [WARNING] No data for DXY
 [WARNING] No data for SILVER
+RETAIL SENTIMENT: Retail Sentiment: n/a
+COT POSITIONING: COT GOLD: n/a
+[MACRO NEWS] Fed Chair Powell Speaks @ 6:40pm (Medium), Core Durable Goods Orders m/m @ 12:30pm (Medium), Durable Goods Orders m/m @ 12:30pm (Medium)
+
 ACTION PROMPT TO GPT:
-Run Line Theory 15 and 30 full MA stack checks. Validate pink/yellow/cyan relationships and white MA slope for macro trend alignment.
-Evaluate Method 4.4 breakout quality: body ratio, volume spike, ATR confirmation, breakout candle location, retest within 1–4 bars, SL/TP RR range.
-Check RSI(5) M1/M15/M30, MACD crossovers, and BB width status. Confirm squeeze, expansion, or climax.
-Apply Validity Checker: session tag, VWAP alignment, ±45min news filter, zone retest fatigue, confidence %, time-decayed risk.
-If DXY/Silver/US10Y data is missing or diverges → reduce confidence.
-Return response in this exact format:
+Using the above data, classify:
 - SIGNAL: BUY / SELL / AVOID
 - ENTRY: price or range
 - SL / TP1 / TP2
@@ -32,3 +35,7 @@ Return response in this exact format:
 - MOMENTUM CONTEXT
 - STRUCTURE CONTEXT
 - INTERMARKET CONTEXT
+- MOMENTUM COLLAPSE (if present)
+- LIQUIDITY SWEEP (if present)
+
+Return output in one structured block, no markdown or asterisks.
