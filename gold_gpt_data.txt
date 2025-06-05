@@ -2,15 +2,17 @@ SCALPING SIGNAL DATA SNAPSHOT
 Time: 2025-06-05 09:10 UK / 2025-06-05 08:10 UTC
 
 SYMBOL: XAUUSD
-SETUP TYPE: Breakout Sell
-Price: 3356.56 | Spread: 23
-[M1] {"time": "2025-06-05 09:10:00", "open": 3356.26, "high": 3357.2, "low": 3356.20, "close": 3356.56, "tick_volume": 150, "spread": 10, "real_volume": 0, "ema9": 3357.0, "ema21": 3356.7, "ema50": 3356.3, "ema100": 3355.9, "ema200": 3355.5, "ema_slope": -0.15, "rsi": 50, "macd": -0.25, "macd_signal": -0.2, "macd_hist": -0.05, "atr": 0.9, "vwap": 3357.1, "bb_width": 0.0012, "body": 0.3, "range": 1.0, "volume_avg": 100, "fractal_high": false, "fractal_low": false, "hour": 9, "session": "London", "atr_spike": false, "volume_spike": false}
-[M15] {"time": "2025-06-05 09:00:00", "open": 3355.0, "high": 3357.6, "low": 3354.5, "close": 3356.56, "tick_volume": 600, "spread": 10, "real_volume": 0, "ema9": 3356.1, "ema21": 3356.3, "ema50": 3356.7, "ema100": 3357.0, "ema200": 3357.2, "ema_slope": -0.2, "rsi": 52, "macd": -0.3, "macd_signal": -0.25, "macd_hist": -0.05, "atr": 2.1, "vwap": 3357.5, "bb_width": 0.009, "body": 1.5, "range": 2.1, "volume_avg": 200, "fractal_high": false, "fractal_low": false, "hour": 9, "session": "London", "atr_spike": false, "volume_spike": false}
-[M30] {"time": "2025-06-05 09:00:00", "open": 3355.0, "high": 3357.6, "low": 3354.5, "close": 3356.56, "tick_volume": 1200, "spread": 10, "real_volume": 0, "ema9": 3356.4, "ema21": 3356.8, "ema50": 3357.2, "ema100": 3357.5, "ema200": 3357.7, "ema_slope": -0.19, "rsi": 53, "macd": -0.35, "macd_signal": -0.30, "macd_hist": -0.05, "atr": 2.3, "vwap": 3357.5, "bb_width": 0.010, "body": 1.5, "range": 2.1, "volume_avg": 220, "fractal_high": false, "fractal_low": false, "hour": 9, "session": "London", "atr_spike": false, "volume_spike": false}
-[Pivots] {"PP": 3356.0, "R1": 3357.5, "S1": 3354.2, "R2": 3359.0, "S2": 3352.8}
-[Volume Profile Nodes] [{"price": 3354.0, "volume": 6200, "is_node": true}, {"price": 3356.0, "volume": 4900, "is_node": true}]
-[FVG Zones] [{"type": "down", "low": 3356.5, "high": 3356.8, "time": "2025-06-05 09:08:00"}]
-[Order Blocks] [{"type": "sell", "low": 3356.5, "high": 3356.7}]
-[News] [{"impact": "Low", "time": "08:45"}]
+SETUP TYPE: Test Valid
+Price: 99 | Spread: 10
+[M1] {"open": 101, "close": 99, "high": 102, "low": 98, "tick_volume": 150, "ema9": 99, "ema21": 99.5, "ema50": 100, "ema100": 101, "ema200": 102, "ema_slope": -0.2, "rsi": 50, "macd": -0.2, "atr": 1, "bos": true, "hour": 9, "session": "London"}
+[M15] {"open": 101, "close": 99, "high": 102, "low": 98, "tick_volume": 600, "ema9": 99, "ema21": 99.5, "ema50": 100, "ema100": 101, "ema200": 102, "ema_slope": -0.2, "rsi": 52, "macd": -0.3, "atr": 2, "bos": true, "hour": 9, "session": "London"}
+[M30] {"open": 101, "close": 99, "high": 102, "low": 98, "tick_volume": 600, "ema9": 99, "ema21": 99.5, "ema50": 100, "ema100": 101, "ema200": 102, "ema_slope": -0.2, "rsi": 52, "macd": -0.3, "atr": 2, "bos": true, "hour": 9, "session": "London"}
+[Pivots] {"PP": 99, "R1": 100, "S1": 98}
+[FVG Zones] [{"type": "down", "low": 99, "high": 99.2}]
+[Order Blocks] [{"type": "sell", "low": 99, "high": 99.2}]
+[News] []
+[DXY] {"close": 105}
+[SILVER] {"close": 27}
+[US10Y] {"close": 4.5}
 [Tick Data] []
 [Market Depth] []
