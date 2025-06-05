@@ -1,0 +1,18 @@
+SCALPING SIGNAL DATA SNAPSHOT
+Time: 2025-06-05 09:10 UK / 2025-06-05 08:10 UTC
+
+SYMBOL: XAUUSD
+SETUP TYPE: Test Valid
+Price: 96
+[M1] {"open": 101, "close": 96, "high": 101, "low": 96, "tick_volume": 150, "ema9": 97, "ema21": 97.5, "ema50": 98, "ema100": 98.5, "ema200": 99, "ema_slope": -0.9, "rsi": 50, "macd": -0.2, "atr": 1, "bos": true, "hour": 9, "session": "London", "retest": true}
+[M15] {"open": 101, "close": 96, "high": 101, "low": 96, "tick_volume": 600, "ema9": 97, "ema21": 97.5, "ema50": 98, "ema100": 98.5, "ema200": 99, "ema_slope": -0.9, "rsi": 52, "macd": -0.3, "atr": 2, "bos": true, "hour": 9, "session": "London", "retest": true}
+[M30] {"open": 101, "close": 96, "high": 101, "low": 96, "tick_volume": 600, "ema9": 97, "ema21": 97.5, "ema50": 98, "ema100": 98.5, "ema200": 99, "ema_slope": -0.9, "rsi": 52, "macd": -0.3, "atr": 2, "bos": true, "hour": 9, "session": "London", "retest": true}
+[Pivots] {"PP": 97, "R1": 98, "S1": 96}
+[FVG Zones] [{"type": "down", "low": 96, "high": 96.2}]
+[Order Blocks] [{"type": "sell", "low": 96, "high": 96.2}]
+[News] []
+[DXY] {"close": 105}
+[SILVER] {"close": 27}
+[US10Y] {"close": 4.5}
+[Tick Data] []
+[Market Depth] []
