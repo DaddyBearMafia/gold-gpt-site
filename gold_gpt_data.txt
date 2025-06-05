@@ -3,10 +3,11 @@ Time: 2025-06-05 09:10 UK / 2025-06-05 08:10 UTC
 
 SYMBOL: XAUUSD
 SETUP TYPE: Test Valid
-Price: 97.2
-[M1] {"open": 98, "close": 97.2, "high": 98, "low": 97, "tick_volume": 150, "ema9": 96, "ema21": 97, "ema50": 98, "ema100": 99, "ema200": 100, "ema_slope": -0.9, "rsi": 50, "macd": -0.2, "atr": 1, "bos": true, "hour": 9, "session": "London", "retest": true}
-[M15] {"open": 98, "close": 97.2, "high": 98, "low": 97, "tick_volume": 600, "ema9": 96, "ema21": 97, "ema50": 98, "ema100": 99, "ema200": 100, "ema_slope": -0.9, "rsi": 52, "macd": -0.3, "atr": 2, "bos": true, "hour": 9, "session": "London", "retest": true}
-[M30] {"open": 98, "close": 97.2, "high": 98, "low": 97, "tick_volume": 600, "ema9": 96, "ema21": 97, "ema50": 98, "ema100": 99, "ema200": 100, "ema_slope": -0.9, "rsi": 52, "macd": -0.3, "atr": 2, "bos": true, "hour": 9, "session": "London", "retest": true}
+Price: 97
+[M1] {"open": 98.5, "close": 97, "high": 98.5, "low": 97, "tick_volume": 150, "ema9": 96, "ema21": 97, "ema50": 98, "ema100": 99, "ema200": 100, "ema_slope": -0.9, "rsi": 50, "macd": -0.2, "atr": 1, "bos": true, "hour": 9, "session": "London", "retest": true}
+[M15] {"open": 98.5, "close": 97, "high": 98.5, "low": 97, "tick_volume": 600, "ema9": 96, "ema21": 97, "ema50": 98, "ema100": 99, "ema200": 100, "ema_slope": -0.9, "rsi": 52, "macd": -0.3, "atr": 2, "bos": true, "hour": 9, "session": "London", "retest": true}
+[M30] {"open": 98.5, "close": 97, "high": 98.5, "low": 97, "tick_volume": 600, "ema9": 96, "ema21": 97, "ema50": 98, "ema100": 99, "ema200": 100, "ema_slope": -0.9, "rsi": 52, "macd": -0.3, "atr": 2, "bos": true, "hour": 9, "session": "London", "retest": true}
+[H1] {"ema200": 100}
 [Pivots] {"PP": 97, "R1": 98, "S1": 96}
 [FVG Zones] [{"type": "down", "low": 97, "high": 97.3}]
 [Order Blocks] [{"type": "sell", "low": 97, "high": 97.3}]
